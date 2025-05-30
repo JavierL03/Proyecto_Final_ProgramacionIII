@@ -1,0 +1,164 @@
+{
+  "municipios": [
+    "Ciudad de Guatemala",
+    "San Jose del Golfo",
+    "Palencia",
+    "San Juan Sacatepequez",
+    "Mixco",
+    "Villa Nueva",
+    "Chinautla",
+    "Amatitlan",
+    "Fraijanes",
+    "Villa Canales",
+    "Chuarrancho",
+    "San Raimundo",
+    "Petapa"
+  ],
+  "conexiones": [
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Jose del Golfo",
+      "distancia": 10.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Palencia",
+      "distancia": 22.0
+    },
+    {
+      "origen": "Palencia",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 22.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Jose del Golfo",
+      "distancia": 10.0
+    },
+    {
+      "origen": "San Jose del Golfo",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 10.0
+    },
+    {
+      "origen": "Palencia",
+      "destino": "San Jose del Golfo",
+      "distancia": 8.0
+    },
+    {
+      "origen": "San Jose del Golfo",
+      "destino": "Palencia",
+      "distancia": 8.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Palencia",
+      "distancia": 22.0
+    },
+    {
+      "origen": "Palencia",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 22.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Juan Sacatepequez",
+      "distancia": 11.0
+    },
+    {
+      "origen": "San Juan Sacatepequez",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 11.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Villa Nueva",
+      "distancia": 8.0
+    },
+    {
+      "origen": "Villa Nueva",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 8.0
+    },
+    {
+      "origen": "Fraijanes",
+      "destino": "Palencia",
+      "distancia": 12.0
+    },
+    {
+      "origen": "Palencia",
+      "destino": "Fraijanes",
+      "distancia": 12.0
+    },
+    {
+      "origen": "Palencia",
+      "destino": "Villa Nueva",
+      "distancia": 5.0
+    },
+    {
+      "origen": "Villa Nueva",
+      "destino": "Palencia",
+      "distancia": 5.0
+    },
+    {
+      "origen": "Villa Canales",
+      "destino": "San Raimundo",
+      "distancia": 8.2
+    },
+    {
+      "origen": "San Raimundo",
+      "destino": "Villa Canales",
+      "distancia": 8.2
+    },
+    {
+      "origen": "Petapa",
+      "destino": "Villa Canales",
+      "distancia": 5.5
+    },
+    {
+      "origen": "Villa Canales",
+      "destino": "Petapa",
+      "distancia": 5.5
+    },
+    {
+      "origen": "Villa Canales",
+      "destino": "Chuarrancho",
+      "distancia": 9.4
+    },
+    {
+      "origen": "Chuarrancho",
+      "destino": "Villa Canales",
+      "distancia": 9.4
+    },
+    {
+      "origen": "Petapa",
+      "destino": "Chuarrancho",
+      "distancia": 14.1
+    },
+    {
+      "origen": "Chuarrancho",
+      "destino": "Petapa",
+      "distancia": 14.1
+    },
+    {
+      "origen": "Petapa",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 9.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Petapa",
+      "distancia": 9.0
+    },
+    {
+      "origen": "San Raimundo",
+      "destino": "Ciudad de Guatemala",
+      "distancia": 11.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Raimundo",
+      "distancia": 11.0
+    }
+  ]
+}
