@@ -1,0 +1,104 @@
+{
+  "municipios": [
+    "Ciudad de Guatemala",
+    "Santa Catarina Pinula",
+    "San José Pinula",
+    "San José del Golfo",
+    "Palencia",
+    "Chinautla",
+    "San Pedro Ayampuc",
+    "Mixco",
+    "San Pedro Sacatepéquez",
+    "San Juan Sacatepéquez",
+    "San Raimundo",
+    "Chuarrancho",
+    "Fraijanes",
+    "Amatitlán",
+    "Villa Nueva",
+    "Villa Canales",
+    "Petapa"
+  ],
+  "conexiones": [
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Santa Catarina Pinula",
+      "distancia": 14.9
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San José Pinula",
+      "distancia": 22.7
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San José del Golfo",
+      "distancia": 28.1
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Palencia",
+      "distancia": 28.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Chinautla",
+      "distancia": 11.00
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Pedro Ayampuc",
+      "distancia": 24.6
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Mixco",
+      "distancia": 12.6
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Pedro Sacatepéquez",
+      "distancia": 22.8
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Juan Sacatepéquez",
+      "distancia": 27.0
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "San Raimundo",
+      "distancia": 31.3
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Chuarrancho",
+      "distancia": 32.1
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Fraijanes",
+      "distancia": 25.6
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Amatitlán",
+      "distancia": 29.6
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Villa Nueva",
+      "distancia": 18.3
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Villa Canales",
+      "distancia": 25.8
+    },
+    {
+      "origen": "Ciudad de Guatemala",
+      "destino": "Petapa",
+      "distancia": 19.2
+    }
+   
+  ]
+}

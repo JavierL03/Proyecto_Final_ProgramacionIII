@@ -1,0 +1,30 @@
+{
+  "municipios": [
+    "Villa Canales",
+    "Chuarrancho",
+    "San Raimundo",
+    "Petapa"
+  ],
+  "conexiones": [
+    {
+      "origen": "Villa Canales",
+      "destino": "San Raimundo",
+      "distancia": 8.2
+    },
+    {
+      "origen": "Petapa",
+      "destino": "Villa Canales",
+      "distancia": 5.5
+    },
+    {
+      "origen": "Villa Canales",
+      "destino": "Chuarrancho",
+      "distancia": 9.4
+    },
+    {
+      "origen": "Petapa",
+      "destino": "Chuarrancho",
+      "distancia": 14.1
+    }
+  ]
+}
